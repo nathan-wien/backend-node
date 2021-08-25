@@ -1,1 +1,1 @@
-# NodeJS Backend Project Template
+# Node Backend Project Template
